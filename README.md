@@ -1,1 +1,1 @@
-Prediksi Harga Komoditas Pangan Pada Pasar Tradisional di Bandung dengan Menggunakan Metode Time Series Forecasting
+Prediksi Harga Komoditas Pangan Pada Pasar Tradisional Kota Bandung dengan Menggunakan Metode Time Series Forecasting
